@@ -156,6 +156,6 @@ entry.push(multiplication)
 }
 entry.push(division)
   }else{
-    userEntryEl.innerHTML="enter a operand"
+    userEntryEl.innerHTML="missing numbers pr operators"
   }
 }
