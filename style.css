@@ -1,0 +1,29 @@
+body {
+    font-size: 15pt;
+    margin:0;
+    box-sizing:border-box;
+    background-color:black;
+}
+div{
+  width:137px;
+  height:137px;
+  border:2px solid darkorange;
+  display:inline-block;
+  margin-right:-4.15px;
+}
+p{
+  color:white;
+  font-size:70px;
+  text-align:center;
+  margin-bottom:0;
+}
+#div2{
+  margin-top:10%;
+}
+.buttons{
+  margin-top:17%;
+  margin-bottom:0;
+}
+div:hover{
+  background-color: darkorange;
+}
