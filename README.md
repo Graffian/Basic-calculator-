@@ -1,5 +1,4 @@
-Coded this calculator using basic js(ps - i was challenged to code a calculator with only basics)
-
+Coded this calculator using basic js
 
 description:-
 I coded this only by declaring a one single array , using 4 array properties(array.slice,array.join,array.pop,array.push) , if else , while and for loops . The code is beginner friendly although it doesn't follow the DRY rule it is readable by anyone who doesn't know anything about js
